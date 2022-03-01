@@ -3,3 +3,6 @@ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 https://git.six30labs.com/icici/icici-node
 
 git@git.six30labs.com:icici/icici-node.git
+
+
+git config --global http.proxy http://mydomain\\myusername:mypassword@myproxyserver:8080
