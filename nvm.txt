@@ -6,3 +6,6 @@ git@git.six30labs.com:icici/icici-node.git
 
 
 git config --global http.proxy http://mydomain\\myusername:mypassword@myproxyserver:8080
+
+
+https://github.com/Jattesh-Hittinahalli/icici-be
