@@ -1,0 +1,32 @@
+2022-03-02T00:02:08: PM2 log: ===============================================================================
+2022-03-02T00:02:08: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-03-02T00:02:08: PM2 log: Time                 : Wed Mar 02 2022 00:02:08 GMT-0500 (Eastern Standard Time)
+2022-03-02T00:02:08: PM2 log: PM2 version          : 5.2.0
+2022-03-02T00:02:08: PM2 log: Node.js version      : 14.17.1
+2022-03-02T00:02:08: PM2 log: Current arch         : x64
+2022-03-02T00:02:08: PM2 log: PM2 home             : C:\Users\admin\.pm2
+2022-03-02T00:02:08: PM2 log: PM2 PID file         : C:\Users\admin\.pm2\pm2.pid
+2022-03-02T00:02:08: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2022-03-02T00:02:08: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2022-03-02T00:02:08: PM2 log: Application log path : C:\Users\admin\.pm2\logs
+2022-03-02T00:02:08: PM2 log: Worker Interval      : 30000
+2022-03-02T00:02:08: PM2 log: Process dump file    : C:\Users\admin\.pm2\dump.pm2
+2022-03-02T00:02:08: PM2 log: Concurrent actions   : 2
+2022-03-02T00:02:08: PM2 log: SIGTERM timeout      : 1600
+2022-03-02T00:02:08: PM2 log: ===============================================================================
+2022-03-14T07:55:15: PM2 log: ===============================================================================
+2022-03-14T07:55:15: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-03-14T07:55:15: PM2 log: Time                 : Mon Mar 14 2022 07:55:15 GMT-0400 (Eastern Daylight Time)
+2022-03-14T07:55:15: PM2 log: PM2 version          : 5.2.0
+2022-03-14T07:55:15: PM2 log: Node.js version      : 14.17.1
+2022-03-14T07:55:15: PM2 log: Current arch         : x64
+2022-03-14T07:55:15: PM2 log: PM2 home             : C:\Users\admin\.pm2
+2022-03-14T07:55:15: PM2 log: PM2 PID file         : C:\Users\admin\.pm2\pm2.pid
+2022-03-14T07:55:15: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2022-03-14T07:55:15: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2022-03-14T07:55:15: PM2 log: Application log path : C:\Users\admin\.pm2\logs
+2022-03-14T07:55:15: PM2 log: Worker Interval      : 30000
+2022-03-14T07:55:15: PM2 log: Process dump file    : C:\Users\admin\.pm2\dump.pm2
+2022-03-14T07:55:15: PM2 log: Concurrent actions   : 2
+2022-03-14T07:55:15: PM2 log: SIGTERM timeout      : 1600
+2022-03-14T07:55:15: PM2 log: ===============================================================================
